@@ -1,41 +1,42 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4444&center=true&vCenter=true&width=500&lines=LosslessLament;Red+Teamer+in+the+making.;Still+learning.+Always+hacking.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FF4444&center=true&vCenter=true&width=500&lines=LosslessLament;just+figuring+things+out.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-hey, i'm **LosslessLament** — a cybersecurity student mostly self-taught, currently grinding through TryHackMe and figuring things out as I go.
+hey — i'm **LosslessLament**.
 
-I got into security because I wanted to understand how things actually break, not just how to use them. Red teaming and pentesting are where my head's at right now — the offensive side just makes more sense to me. I'd rather find the hole before someone else does.
+i'm into cybersecurity and slowly working my way through it. mostly self-taught, picking things up as I go. I spend a lot of time on TryHackMe, poking around with tools, and breaking things in labs just to see what happens. the offensive side of security is what interests me most but I wouldn't call myself anything official — just someone who finds it genuinely interesting and keeps showing up.
 
-I hold the **Google Cybersecurity Certificate** and I'm building up real hands-on experience through labs and CTFs. Still early in the journey, but I'm consistent about it.
+lately i've also been messing around with AI — how it works, what you can do with it, where it fits into security. still early days on that front too.
 
----
-
-**what i'm working with**
-
-Kali, Nmap, Burp Suite, Wireshark, Metasploit — the usual suspects. Comfortable on Linux, getting better with Python for scripting. Networking is probably my strongest foundation right now.
+I have a **Google Cybersecurity Certificate** which gave me a solid base, but most of what I know came from just doing stuff and going down rabbit holes.
 
 ---
 
-**where i'm at on TryHackMe**
+**things i've been using / learning**
+
+Kali, Nmap, Burp Suite, Wireshark, Metasploit, Linux in general. Python a bit. networking is probably where I feel most comfortable right now.
+
+---
+
+**TryHackMe**
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/LosslessLament.png)](https://tryhackme.com/p/LosslessLament)
-
----
-
-**projects / things i'm building**
-
-nothing polished enough to show yet — but I'm working on writeups for rooms I've completed and setting up a home lab to practice in. will push things here as they actually become worth sharing.
 
 ---
 
 **certs**
 
 - Google Cybersecurity Certificate ✓
-- TryHackMe — ongoing
+
+---
+
+**projects**
+
+nothing worth linking yet — working on some writeups and a home lab setup. will add things here when they're actually in a state worth sharing.
 
 ---
 
@@ -49,4 +50,4 @@ nothing polished enough to show yet — but I'm working on writeups for rooms I'
 
 ---
 
-<sub>open to connecting — find me on TryHackMe or drop a message here on GitHub</sub>
+<sub>find me on TryHackMe or feel free to reach out here</sub>
